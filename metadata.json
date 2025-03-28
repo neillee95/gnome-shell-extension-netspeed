@@ -1,0 +1,9 @@
+{
+  "uuid": "netspeed@neillee.github.com",
+  "name": "NetSpeed",
+  "description": "Display network speed in the top panel",
+  "shell-version": ["42"],
+  "url": "https://github.com/neillee95/gnome-shell-extension-netspeed",
+  "version": 1,
+  "settings-schema": "org.gnome.shell.extensions.netspeed"
+}

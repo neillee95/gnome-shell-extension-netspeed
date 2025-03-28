@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.netspeed" path="/org/gnome/shell/extensions/netspeed/">
+    <key name="refresh-interval" type="i">
+      <default>1</default>
+      <summary>Refresh interval</summary>
+      <description>The interval (in seconds) to refresh the network speed display</description>
+      <range min="1" max="10"/>
+    </key>
+  </schema>
+</schemalist>
